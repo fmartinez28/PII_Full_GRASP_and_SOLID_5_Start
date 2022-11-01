@@ -1,7 +1,7 @@
 # PII Full GRASP and SOLID
 ## FIT
 ### Universidad Católica del Uruguay
-
+Santiago Panozzo
 En este programa trabajaremos con recetas de cocina que involucran ingredientes y equipamiento.
 
 ## Desafío(s)
