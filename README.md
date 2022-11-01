@@ -3,7 +3,7 @@
 ### Universidad Católica del Uruguay
 
 
-Santiago Panozzo, Mateo Rodriguez, Alejandra Benítez
+Santiago Panozzo, Mateo Rodriguez, Alejandra Benítez, Tomás Esteves
 
 
 En este programa trabajaremos con recetas de cocina que involucran ingredientes y equipamiento.
